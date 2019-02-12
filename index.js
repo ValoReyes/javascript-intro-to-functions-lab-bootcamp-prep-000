@@ -25,4 +25,3 @@ return 'I love you, too.'
   if string === string.toLowerCase() {
 console.log('I can\'t hear you!') expect(sayHiToGrandma('hello')).toEqual("I can't hear you!")
 }}
->>>>>>> 71ac4cfa80db5983d42db896502a0d15f110878c
